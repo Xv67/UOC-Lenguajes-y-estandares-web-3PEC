@@ -3,7 +3,7 @@
 @font-face {
     font-family: 'alegreyaregular';
     src: url('../fonts/alegreya-regular.woff2') format('woff2'),
-         url('../fonts/alegreya-regula.woff') format('woff');
+         url('../fonts/alegreya-regular.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
